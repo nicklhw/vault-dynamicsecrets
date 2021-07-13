@@ -1,5 +1,5 @@
 # How to manage Dynamic Database Credentials using Hashicorp Vault
-- - - -
+
 ## Estimated Time to Complete
 20 minutes
 
